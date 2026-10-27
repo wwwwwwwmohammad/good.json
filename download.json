@@ -7,7 +7,7 @@
   "BtnLater": "باز شود",
   "BtnUpdate": "🔒🔒",
   "Url": "",
-  "ForceUpdate": false,
+  "ForceUpdate": true,
   "Reminder": "0m",      
   "BtnTimer": 0         
 }
